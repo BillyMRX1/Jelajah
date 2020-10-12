@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250473397595",
+    "firebase_url": "https://jelajah-30b7f.firebaseio.com",
+    "project_id": "jelajah-30b7f",
+    "storage_bucket": "jelajah-30b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250473397595:android:c37c41f13274ff1111ae7e",
+        "android_client_info": {
+          "package_name": "com.example.jelajah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250473397595-cksmh5r3st9va6gr93fjsrfr5p3r0mn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40F7aNTQJ22heQypr8XDLyqKcFSm58qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250473397595-cksmh5r3st9va6gr93fjsrfr5p3r0mn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

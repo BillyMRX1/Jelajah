@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250473397595",
+    "firebase_url": "https://jelajah-30b7f.firebaseio.com",
+    "project_id": "jelajah-30b7f",
+    "storage_bucket": "jelajah-30b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250473397595:android:dd4a56f72037db0611ae7e",
+        "android_client_info": {
+          "package_name": "com.example.jelajah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250473397595-icm14enaib38jmu61cf6t195jgc5o2n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jelajah",
+            "certificate_hash": "1b3f428776c957645ee989fb9dee1b15466dc790"
+          }
+        },
+        {
+          "client_id": "250473397595-cksmh5r3st9va6gr93fjsrfr5p3r0mn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40F7aNTQJ22heQypr8XDLyqKcFSm58qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250473397595-cksmh5r3st9va6gr93fjsrfr5p3r0mn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
