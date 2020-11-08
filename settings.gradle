@@ -1,2 +1,4 @@
+include ':models'
+include ':lib_support'
 include ':app'
 rootProject.name = "Jelajah"

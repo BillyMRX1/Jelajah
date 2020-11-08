@@ -51,13 +51,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="32dp"
-            android:src="@drawable/ic_welcomedot2"
-            app:layout_constraintBottom_toTopOf="@+id/skip_btn"
+            android:src="@drawable/ic_welcomedot3"
+            app:layout_constraintBottom_toTopOf="@+id/next_btn"
             app:layout_constraintEnd_toEndOf="@+id/textView6"
             app:layout_constraintStart_toStartOf="@+id/textView6" />
 
         <ImageButton
-            android:id="@+id/skip_btn"
+            android:id="@+id/next_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="24dp"
